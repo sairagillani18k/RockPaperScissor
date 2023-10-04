@@ -1,4 +1,4 @@
-# Rock Paper Scissor
+# The Rock-Paper-Scissor Game
 
 A model that recognizes hand gestures made in the Rock, Paper, Scissors game!
 
